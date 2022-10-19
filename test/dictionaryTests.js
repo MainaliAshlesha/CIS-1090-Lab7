@@ -7,7 +7,7 @@ import assert from "assert";
 const searches = {
     "Linear": linear,
     //❓ Question 5, uncomment the following line
-    //"Indexed": indexed,
+    "Indexed": indexed,
     
     //❓ Question 7, uncomment the following line.
     //"Binary": binary
